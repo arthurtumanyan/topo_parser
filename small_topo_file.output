@@ -1,0 +1,92 @@
+Switch:
+sysimgguid: 0xb8599f0300fc6de4
+switch_id: : 0xb8599f0300fc6de4(b8599f0300fc6de4)
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=1
+	Connected to host: caguid=0xec0d9a03007d7d0a, port=1
+	Connected to host: caguid=0xec0d9a03007d7d0b, port=1
+	Connected to host: caguid=0xb8599f0300fc6dec, port=1
+
+Switch:
+sysimgguid: 0x2c903007b78b0
+switch_id: : 0x2c903007b78b0(2c903007b78b0)
+	Connected to switch: switchguid=0xb8599f0300fc6de4(b8599f0300fc6de4), port=3
+	Connected to host: caguid=0xe41d2d03005cf34c, port=1
+	Connected to host: caguid=0xe41d2d03005cf34d, port=1
+	Connected to host: caguid=0xc42a103008b40d0, port=1
+	Connected to host: caguid=0xc42a103008b40d1, port=1
+	Connected to host: caguid=0xb8599f03000a77d0, port=1
+	Connected to host: caguid=0xb8599f03000a77d1, port=1
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=26
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=25
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=29
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=28
+	Connected to host: caguid=0x248a0703002e61db, port=1
+	Connected to host: caguid=0x248a0703002e61da, port=1
+	Connected to host: caguid=0xc42a103008b3bd0, port=1
+	Connected to host: caguid=0xc42a103008b3bd1, port=1
+
+Host:
+sysimgguid: 0xec0d9a03007d7d0a
+port_id: : 0xec0d9a03007d7d0b
+	Connected to switch: switchguid=0xb8599f0300fc6de4(b8599f0300fc6de4), port=24
+
+Host:
+sysimgguid: 0xb8599f0300fc6de4
+port_id: : 0xb8599f0300fc6dec
+	Connected to switch: switchguid=0xb8599f0300fc6de4(b8599f0300fc6de4), port=41
+
+Host:
+sysimgguid: 0xec0d9a03007d7d0a
+port_id: : 0xec0d9a03007d7d0a
+	Connected to switch: switchguid=0xb8599f0300fc6de4(b8599f0300fc6de4), port=23
+
+Host:
+sysimgguid: 0xc42a103008b3bd0
+port_id: : 0xc42a103008b3bd1
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=34
+
+Host:
+sysimgguid: 0xc42a103008b3bd0
+port_id: : 0xc42a103008b3bd0
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=33
+
+Host:
+sysimgguid: 0x248a0703002e61da
+port_id: : 0x248a0703002e61da
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=31
+
+Host:
+sysimgguid: 0x248a0703002e61da
+port_id: : 0x248a0703002e61db
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=30
+
+Host:
+sysimgguid: 0xb8599f03000a77d0
+port_id: : 0xb8599f03000a77d1
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=20
+
+Host:
+sysimgguid: 0xb8599f03000a77d0
+port_id: : 0xb8599f03000a77d0
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=19
+
+Host:
+sysimgguid: 0xc42a103008b40d0
+port_id: : 0xc42a103008b40d1
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=9
+
+Host:
+sysimgguid: 0xe41d2d03005cf34c
+port_id: : 0xe41d2d03005cf34d
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=5
+
+Host:
+sysimgguid: 0xe41d2d03005cf34c
+port_id: : 0xe41d2d03005cf34c
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=3
+
+Host:
+sysimgguid: 0xc42a103008b40d0
+port_id: : 0xc42a103008b40d0
+	Connected to switch: switchguid=0x2c903007b78b0(2c903007b78b0), port=8
+
